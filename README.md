@@ -267,8 +267,6 @@ This project was developed to demonstrate practical experience in:
 
 Flutter Developer
 
-- GitHub: YOUR_GITHUB_PROFILE
-- LinkedIn: YOUR_LINKEDIN_PROFILE
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/esmail-alfahad
 
 ---
